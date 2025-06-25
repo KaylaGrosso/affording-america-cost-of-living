@@ -22,7 +22,7 @@ How affordable is the average American county for families earning median househ
 ## 📂 Files
 - `Jupyter Notebook (.ipynb)` – Full data cleansing, EDA, and commentary.
 - `Project Instructions` – All instructional PDFs (SMART problem, issue tree, etc.).
-- `Tableau Dashboard` – [Optional: Add link here if uploaded to Tableau Public]
+- `Tableau Dashboard` – [(https://public.tableau.com/views/Capstone2CostofLivingintheU_S_/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 - `Presentation Slides` – Executive-ready visuals created for stakeholder audiences.
 
 ## 📌 Skills Demonstrated
